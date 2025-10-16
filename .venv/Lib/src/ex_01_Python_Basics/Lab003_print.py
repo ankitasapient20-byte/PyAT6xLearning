@@ -1,4 +1,6 @@
 print("Hello World")
+#Print("Hello World")- Case sensitive
+
 #`print(self, *args, sep=" ", end="\n", file=None);
 #self- please ignore (oops)
 #*args- unlimited no. of comma speperated arguments.
@@ -11,6 +13,7 @@ print("Ankita",123,"Avantika","Mayank",3.14, True, sep="__",end="\n")
 print("Ankita",123,"Avantika","Mayank",3.14, True, sep="__",end="\n")
     #print("Ankita",123,"Avantika","Mayank",3.14, True, sep="__",end="\n")-IndentationError: unexpected indent
 print("Ankita",123,"Avantika","Mayank",3.14, True, sep="__",end="\n")
+
 
 
 

@@ -1,0 +1,1 @@
+print("Ankita",129,"Mayank","Avantika",sep="*",end="+")

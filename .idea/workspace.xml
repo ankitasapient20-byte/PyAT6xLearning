@@ -4,10 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c04955f-4ca4-4d81-862a-dcf76c07d19c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_01_Python_Basics/Lab003_print.py" afterDir="false" />
+    <list default="true" id="2c04955f-4ca4-4d81-862a-dcf76c07d19c" name="Changes" comment="16th oct">
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/Task/Task001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab016_Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab017_Multi_Comments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab018_Multi_Comments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab019_Data_Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab020_Builtin_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab021_User_Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab022_UserInput_Sum of two num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab023_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab024_Strings_Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab025_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab026_Escape Char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab027_String/Double String Difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab004_Keyword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab005_Variable_Part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab006_Identifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab007_Variable_Names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab008_Dynamically_typed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab009_Identifier_Rule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab010_Maths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab011_IQ_BODMAS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab012_Multiple_Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab013_Multiple_Prints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab014_Math_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab015_IQ.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/src/ex_01_Python_Basics/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_01_Python_Basics/Lab002_Comment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/Lib/src/ex_01_Python_Basics/Lab003_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_01_Python_Basics/Lab003_print.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +77,34 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Double String Difference.executor": "Run",
     "Python.Lab001_Python_Hello.executor": "Run",
     "Python.Lab002_Comment.executor": "Run",
     "Python.Lab003_print.executor": "Run",
+    "Python.Lab004_Keyword.executor": "Run",
+    "Python.Lab005_Variable_Part1.executor": "Run",
+    "Python.Lab006_Identifier.executor": "Run",
+    "Python.Lab007_Variable_Names.executor": "Run",
+    "Python.Lab008_Dynamically_typed.executor": "Run",
+    "Python.Lab009_Identifier_Rule.executor": "Run",
+    "Python.Lab010_Maths.executor": "Run",
+    "Python.Lab011_IQ_BODMAS.executor": "Run",
+    "Python.Lab012_Multiple_Variables.executor": "Run",
+    "Python.Lab013_Multiple_Prints.executor": "Run",
+    "Python.Lab014_Math_Functions.executor": "Run",
+    "Python.Lab015_IQ.executor": "Run",
+    "Python.Lab016_Literals.executor": "Run",
+    "Python.Lab017_Multi_Comments.executor": "Run",
+    "Python.Lab018_Multi_Comments.executor": "Run",
+    "Python.Lab019_Data_Types.executor": "Run",
+    "Python.Lab020_Builtin_Functions.executor": "Run",
+    "Python.Lab021_User_Input.executor": "Run",
+    "Python.Lab022_UserInput_Sum of two num.executor": "Run",
+    "Python.Lab023_Strings.executor": "Run",
+    "Python.Lab024_Strings_Conversion.executor": "Run",
+    "Python.Lab025_Strings.executor": "Run",
+    "Python.Lab026_Escape Char.executor": "Run",
+    "Python.Task001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -68,7 +117,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab003_print">
+  <component name="RunManager">
     <configuration name="Lab001_Python_Hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyAT6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -164,7 +213,7 @@
       <workItem from="1760289013278" duration="47000" />
       <workItem from="1760436742610" duration="4556000" />
       <workItem from="1760466630882" duration="2607000" />
-      <workItem from="1760632739219" duration="2846000" />
+      <workItem from="1760632739219" duration="12061000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -182,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760441339923</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="16th oct">
+      <option name="closed" value="true" />
+      <created>1760638045882</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760638045882</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,22 +248,53 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Commit with my files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit with my files" />
+    <MESSAGE value="16th oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="16th oct" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/.venv/Lib/src/ex_01_Python_Basics/Lab003_print.py</url>
-          <line>6</line>
+          <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab026_Escape Char.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab012_Multiple_Variables.coverage" NAME="Lab012_Multiple_Variables Coverage Results" MODIFIED="1760643684193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab011_IQ_BODMAS.coverage" NAME="Lab011_IQ_BODMAS Coverage Results" MODIFIED="1760643303393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab003_print.coverage" NAME="Lab003_print Coverage Results" MODIFIED="1760638632460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_01_Python_Basics" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab008_Dynamically_typed.coverage" NAME="Lab008_Dynamically_typed Coverage Results" MODIFIED="1760642876365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab020_Builtin_Functions.coverage" NAME="Lab020_Builtin_Functions Coverage Results" MODIFIED="1760645556017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab007_Variable_Names.coverage" NAME="Lab007_Variable_Names Coverage Results" MODIFIED="1760642689749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab017_Multi_Comments.coverage" NAME="Lab017_Multi_Comments Coverage Results" MODIFIED="1760645083577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab001_Python_Hello.coverage" NAME="Lab001_Python_Hello Coverage Results" MODIFIED="1760437581982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_01_Python_Basics" />
-    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab003_print.coverage" NAME="Lab003_print Coverage Results" MODIFIED="1760637409527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_01_Python_Basics" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab023_Strings.coverage" NAME="Lab023_Strings Coverage Results" MODIFIED="1760646736001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab010_Maths.coverage" NAME="Lab010_Maths Coverage Results" MODIFIED="1760643168320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab006_Identifier.coverage" NAME="Lab006_Identifier Coverage Results" MODIFIED="1760641571507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab026_Escape_Char.coverage" NAME="Lab026_Escape Char Coverage Results" MODIFIED="1760647414466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Double_String_Difference.coverage" NAME="Double String Difference Coverage Results" MODIFIED="1760647737703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab027_String" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab021_User_Input.coverage" NAME="Lab021_User_Input Coverage Results" MODIFIED="1760645983119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab024_Strings_Conversion.coverage" NAME="Lab024_Strings_Conversion Coverage Results" MODIFIED="1760646920179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab022_UserInput_Sum_of_two_num.coverage" NAME="Lab022_UserInput_Sum of two num Coverage Results" MODIFIED="1760646361839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab014_Math_Functions.coverage" NAME="Lab014_Math_Functions Coverage Results" MODIFIED="1760644029199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Task001.coverage" NAME="Task001 Coverage Results" MODIFIED="1760638409520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/Task" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab004_Keyword.coverage" NAME="Lab004_Keyword Coverage Results" MODIFIED="1760639071914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab015_IQ.coverage" NAME="Lab015_IQ Coverage Results" MODIFIED="1760644552549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab009_Identifier_Rule.coverage" NAME="Lab009_Identifier_Rule Coverage Results" MODIFIED="1760643027309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab013_Multiple_Prints.coverage" NAME="Lab013_Multiple_Prints Coverage Results" MODIFIED="1760643815775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab018_Multi_Comments.coverage" NAME="Lab018_Multi_Comments Coverage Results" MODIFIED="1760645259776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab025_Strings.coverage" NAME="Lab025_Strings Coverage Results" MODIFIED="1760647189042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab016_Literals.coverage" NAME="Lab016_Literals Coverage Results" MODIFIED="1760644859754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab005_Variable_Part1.coverage" NAME="Lab005_Variable_Part1 Coverage Results" MODIFIED="1760641181774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab002_Comment.coverage" NAME="Lab002_Comment Coverage Results" MODIFIED="1760467887169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_01_Python_Basics" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab019_Data_Types.coverage" NAME="Lab019_Data_Types Coverage Results" MODIFIED="1760645380185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
   </component>
 </project>

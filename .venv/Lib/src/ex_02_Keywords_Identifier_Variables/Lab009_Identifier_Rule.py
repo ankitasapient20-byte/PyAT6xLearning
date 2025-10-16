@@ -1,0 +1,2 @@
+long_abc_abc_abc_varr_var_abc="Hello"
+print(long_abc_abc_abc_varr_var_abc)
