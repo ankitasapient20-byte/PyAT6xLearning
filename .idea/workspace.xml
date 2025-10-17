@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c04955f-4ca4-4d81-862a-dcf76c07d19c" name="Changes" comment="16th oct">
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/Task/Task001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab016_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab017_Multi_Comments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab018_Multi_Comments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab019_Data_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab020_Builtin_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab021_User_Input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab022_UserInput_Sum of two num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab023_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab024_Strings_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab025_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab026_Escape Char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab027_String/Double String Difference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab004_Keyword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab005_Variable_Part1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab006_Identifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab007_Variable_Names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab008_Dynamically_typed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab009_Identifier_Rule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab010_Maths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab011_IQ_BODMAS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab012_Multiple_Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab013_Multiple_Prints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab014_Math_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables/Lab015_IQ.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Lib/src/ex_01_Python_Basics/Lab003_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/src/ex_01_Python_Basics/Lab003_print.py" afterDir="false" />
-    </list>
+    <list default="true" id="2c04955f-4ca4-4d81-862a-dcf76c07d19c" name="Changes" comment="16th octtt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,50 +46,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Double String Difference.executor": "Run",
-    "Python.Lab001_Python_Hello.executor": "Run",
-    "Python.Lab002_Comment.executor": "Run",
-    "Python.Lab003_print.executor": "Run",
-    "Python.Lab004_Keyword.executor": "Run",
-    "Python.Lab005_Variable_Part1.executor": "Run",
-    "Python.Lab006_Identifier.executor": "Run",
-    "Python.Lab007_Variable_Names.executor": "Run",
-    "Python.Lab008_Dynamically_typed.executor": "Run",
-    "Python.Lab009_Identifier_Rule.executor": "Run",
-    "Python.Lab010_Maths.executor": "Run",
-    "Python.Lab011_IQ_BODMAS.executor": "Run",
-    "Python.Lab012_Multiple_Variables.executor": "Run",
-    "Python.Lab013_Multiple_Prints.executor": "Run",
-    "Python.Lab014_Math_Functions.executor": "Run",
-    "Python.Lab015_IQ.executor": "Run",
-    "Python.Lab016_Literals.executor": "Run",
-    "Python.Lab017_Multi_Comments.executor": "Run",
-    "Python.Lab018_Multi_Comments.executor": "Run",
-    "Python.Lab019_Data_Types.executor": "Run",
-    "Python.Lab020_Builtin_Functions.executor": "Run",
-    "Python.Lab021_User_Input.executor": "Run",
-    "Python.Lab022_UserInput_Sum of two num.executor": "Run",
-    "Python.Lab023_Strings.executor": "Run",
-    "Python.Lab024_Strings_Conversion.executor": "Run",
-    "Python.Lab025_Strings.executor": "Run",
-    "Python.Lab026_Escape Char.executor": "Run",
-    "Python.Task001.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Double String Difference.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001_Python_Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002_Comment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_print.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004_Keyword.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005_Variable_Part1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006_Identifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007_Variable_Names.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008_Dynamically_typed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009_Identifier_Rule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010_Maths.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011_IQ_BODMAS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012_Multiple_Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013_Multiple_Prints.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014_Math_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017_Multi_Comments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018_Multi_Comments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019_Data_Types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020_Builtin_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021_User_Input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022_UserInput_Sum of two num.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab024_Strings_Conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab026_Escape Char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task001.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.Lab001_Python_Hello">
     <configuration name="Lab001_Python_Hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyAT6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -213,7 +185,7 @@
       <workItem from="1760289013278" duration="47000" />
       <workItem from="1760436742610" duration="4556000" />
       <workItem from="1760466630882" duration="2607000" />
-      <workItem from="1760632739219" duration="12061000" />
+      <workItem from="1760632739219" duration="12173000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -239,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760638045882</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="16th octtt">
+      <option name="closed" value="true" />
+      <created>1760647879026</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760647879026</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +229,8 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Commit with my files" />
     <MESSAGE value="16th oct" />
-    <option name="LAST_COMMIT_MESSAGE" value="16th oct" />
+    <MESSAGE value="16th octtt" />
+    <option name="LAST_COMMIT_MESSAGE" value="16th octtt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
