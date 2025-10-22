@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c04955f-4ca4-4d81-862a-dcf76c07d19c" name="Changes" comment="20th oct">
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex06_Switch_Match/LabMatch002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex06_Switch_Match/LabSwitch001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex07_Loops/LAbForUsedRealLife.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex07_Loops/Lab ForReverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex07_Loops/Lab048_Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex07_Loops/Lab049_ForLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex07_Loops/Lab050_ForLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex07_Loops/Lab051_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex07_Loops/Lab052_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex07_Loops/Lab053_WhileLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex07_Loops/LabWhile_Vs_For.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex07_Loops/Labwhile.py" afterDir="false" />
+    <list default="true" id="2c04955f-4ca4-4d81-862a-dcf76c07d19c" name="Changes" comment="22th oct">
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/Task/Task010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/Task/Task011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/Task/Task012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/Task/Task09.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,12 +108,16 @@
     "Python.Lab_45_Nestede elseIf.executor": "Run",
     "Python.Labwhile.executor": "Run",
     "Python.Task001.executor": "Run",
+    "Python.Task010.executor": "Run",
+    "Python.Task011.executor": "Run",
+    "Python.Task012.executor": "Run",
     "Python.Task02.executor": "Run",
     "Python.Task03.executor": "Run",
     "Python.Task05.executor": "Run",
     "Python.Task06.executor": "Run",
     "Python.Task07.executor": "Run",
     "Python.Task08.executor": "Run",
+    "Python.Task09.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -235,7 +231,8 @@
       <workItem from="1760804969066" duration="10369000" />
       <workItem from="1760891376756" duration="2559000" />
       <workItem from="1760894236897" duration="5362000" />
-      <workItem from="1761072592357" duration="4738000" />
+      <workItem from="1761072592357" duration="4757000" />
+      <workItem from="1761157866470" duration="4788000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -309,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760904163899</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="22th oct">
+      <option name="closed" value="true" />
+      <created>1761077800259</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761077800259</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,7 +329,8 @@
     <MESSAGE value="18th oct" />
     <MESSAGE value="18th octtt" />
     <MESSAGE value="20th oct" />
-    <option name="LAST_COMMIT_MESSAGE" value="20th oct" />
+    <MESSAGE value="22th oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="22th oct" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -344,6 +350,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab012_Multiple_Variables.coverage" NAME="Lab012_Multiple_Variables Coverage Results" MODIFIED="1760643684193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Task011.coverage" NAME="Task011 Coverage Results" MODIFIED="1761161441343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/Task" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$LAbForUsedRealLife.coverage" NAME="LAbForUsedRealLife Coverage Results" MODIFIED="1761077248318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex07_Loops" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab020_Builtin_Functions.coverage" NAME="Lab020_Builtin_Functions Coverage Results" MODIFIED="1760645556017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab028_Task2.coverage" NAME="Lab028_Task2 Coverage Results" MODIFIED="1760721544168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
@@ -356,8 +363,8 @@
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab026_Escape_Char.coverage" NAME="Lab026_Escape Char Coverage Results" MODIFIED="1760647414466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Double_String_Difference.coverage" NAME="Double String Difference Coverage Results" MODIFIED="1760647737703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab027_String" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab040_Ternary_OP.coverage" NAME="Lab040_Ternary OP Coverage Results" MODIFIED="1760805649168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex04_Operators/Lab035_Operators_P2" />
-    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab_45_Nestede_elseIf.coverage" NAME="Lab_45_Nestede elseIf Coverage Results" MODIFIED="1760891663036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex05_Condition_Loops" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab050_ForLoop.coverage" NAME="Lab050_ForLoop Coverage Results" MODIFIED="1761076170257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex07_Loops" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab_45_Nestede_elseIf.coverage" NAME="Lab_45_Nestede elseIf Coverage Results" MODIFIED="1760891663036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex05_Condition_Loops" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab022_UserInput_Sum_of_two_num.coverage" NAME="Lab022_UserInput_Sum of two num Coverage Results" MODIFIED="1760646361839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab031_Operators.coverage" NAME="Lab031_Operators Coverage Results" MODIFIED="1760728255320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex04_Operators" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$LabMatch002.coverage" NAME="LabMatch002 Coverage Results" MODIFIED="1761074836083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex06_Switch_Match" />
@@ -393,11 +400,14 @@
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab024_Strings_Conversion.coverage" NAME="Lab024_Strings_Conversion Coverage Results" MODIFIED="1760646920179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab021_User_Input.coverage" NAME="Lab021_User_Input Coverage Results" MODIFIED="1760645983119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab052_IQ.coverage" NAME="Lab052_IQ Coverage Results" MODIFIED="1761076798661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex07_Loops" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Task012.coverage" NAME="Task012 Coverage Results" MODIFIED="1761162627841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/Task" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab014_Math_Functions.coverage" NAME="Lab014_Math_Functions Coverage Results" MODIFIED="1760644029199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Task03.coverage" NAME="Task03 Coverage Results" MODIFIED="1760806494309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/Task" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Task09.coverage" NAME="Task09 Coverage Results" MODIFIED="1761158884267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/Task" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab033_Logical_Op.coverage" NAME="Lab033_Logical_Op Coverage Results" MODIFIED="1760728841964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex04_Operators" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab015_IQ.coverage" NAME="Lab015_IQ Coverage Results" MODIFIED="1760644552549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex_02_Keywords_Identifier_Variables" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab048_Loops.coverage" NAME="Lab048_Loops Coverage Results" MODIFIED="1761075510462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex07_Loops" />
+    <SUITE FILE_PATH="coverage/PyAT6xLearning$Task010.coverage" NAME="Task010 Coverage Results" MODIFIED="1761159544429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/Task" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab053_WhileLoop.coverage" NAME="Lab053_WhileLoop Coverage Results" MODIFIED="1761077479700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex07_Loops" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$Lab027_Task1.coverage" NAME="Lab027_Task1 Coverage Results" MODIFIED="1760720911567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables" />
     <SUITE FILE_PATH="coverage/PyAT6xLearning$LabWhile_Vs_For.coverage" NAME="LabWhile_Vs_For Coverage Results" MODIFIED="1761077726222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/src/ex07_Loops" />
