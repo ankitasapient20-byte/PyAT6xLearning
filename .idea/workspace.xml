@@ -5,27 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c04955f-4ca4-4d81-862a-dcf76c07d19c" name="Changes" comment="10th Nov">
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/Task/Task_TriangleClassifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex010_Decorators/Lab079_Dec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex010_Decorators/Lab080_Dec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex010_Decorators/Lab082_RealEx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex010_Decorators/Lab084_IQ_LeapYear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex011_Type_Conversion/Lab087_TypeConv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex012_Lambda_Function/Lab090_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex012_Lambda_Function/Lab091_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex012_Lambda_Function/Lab092_Lamba.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex012_Lambda_Function/Lab093UserI/P_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex08_Functions/Lab02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex08_Functions/Lab03_Real Examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex08_Functions/Lab068_UserInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex08_Functions/Lab069_FxnTypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex08_Functions/Lab071_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex08_Functions/Lab072_Infinite_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex08_Functions/Lab073_Real_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex08_Functions/lab070_Fxn_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex09_Function_Scopes/Lab075_LocalVar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex09_Function_Scopes/Lab078_InnerFxn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex09_Function_Scopes/lab076_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/List/Lab093_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/List/Lab098_POP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/Task/Task_TriaglePattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex014_Tuple/Lab0100_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex014_Tuple/Lab099_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex015_Set/Lab0102_Set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +70,8 @@
     "Python.Lab007_Variable_Names.executor": "Run",
     "Python.Lab008_Dynamically_typed.executor": "Run",
     "Python.Lab009_Identifier_Rule.executor": "Run",
+    "Python.Lab0100_Tuple.executor": "Run",
+    "Python.Lab0102_Set.executor": "Run",
     "Python.Lab010_Maths.executor": "Run",
     "Python.Lab011_IQ_BODMAS.executor": "Run",
     "Python.Lab012_Multiple_Variables.executor": "Run",
@@ -146,6 +133,9 @@
     "Python.Lab090_Lambda.executor": "Run",
     "Python.Lab091_Lambda.executor": "Run",
     "Python.Lab092_Lamba.executor": "Run",
+    "Python.Lab093_List.executor": "Run",
+    "Python.Lab098_POP.executor": "Run",
+    "Python.Lab099_Tuple.executor": "Run",
     "Python.LabMatch002.executor": "Run",
     "Python.LabSwitch001.executor": "Run",
     "Python.LabWhile_Vs_For.executor": "Run",
@@ -166,6 +156,7 @@
     "Python.Task08.executor": "Run",
     "Python.Task09.executor": "Run",
     "Python.Task_FizzBuzz.executor": "Run",
+    "Python.Task_TriaglePattern.executor": "Run",
     "Python.Task_TriangleClassifier.executor": "Run",
     "Python.lab070_Fxn_IQ.executor": "Run",
     "Python.lab076_ex.executor": "Run",
@@ -417,7 +408,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762287585044</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="10th Nov">
+      <option name="closed" value="true" />
+      <created>1762464300610</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1762464300610</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
