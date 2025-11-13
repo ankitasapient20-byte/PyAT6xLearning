@@ -5,13 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c04955f-4ca4-4d81-862a-dcf76c07d19c" name="Changes" comment="10th Nov">
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/List/Lab093_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/List/Lab098_POP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/Task/Task_TriaglePattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex014_Tuple/Lab0100_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex014_Tuple/Lab099_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex015_Set/Lab0102_Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex015_Set/LAB105_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex015_Set/Lab0103_SET.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex015_Set/Lab104_SET_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex015_Set/Lab105_EntraIQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex016_Map_Filters_List/LabFilter01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex016_Map_Filters_List/LabMap01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex016_Map_Filters_List/LabMap02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex016_Map_Filters_List/LabMap03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex016_Map_Filters_List/Labfilter02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex016_Map_Filters_List/Labfilter03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex017_Dict/Lab106_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex017_Dict/Lab107_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/src/ex017_Dict/Lab108_Dict_Mul.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/Lib/src/Task/Task_TriaglePattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Lib/src/Task/Task_TriaglePattern.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +66,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Double String Difference.executor": "Run",
+    "Python.LAB105_IQ.executor": "Run",
     "Python.LAb059_Odd_Number.executor": "Run",
     "Python.LAbForUsedRealLife.executor": "Run",
     "Python.Lab ForReverse.executor": "Run",
@@ -72,6 +81,7 @@
     "Python.Lab009_Identifier_Rule.executor": "Run",
     "Python.Lab0100_Tuple.executor": "Run",
     "Python.Lab0102_Set.executor": "Run",
+    "Python.Lab0103_SET.executor": "Run",
     "Python.Lab010_Maths.executor": "Run",
     "Python.Lab011_IQ_BODMAS.executor": "Run",
     "Python.Lab012_Multiple_Variables.executor": "Run",
@@ -136,10 +146,21 @@
     "Python.Lab093_List.executor": "Run",
     "Python.Lab098_POP.executor": "Run",
     "Python.Lab099_Tuple.executor": "Run",
+    "Python.Lab104_SET_P3.executor": "Run",
+    "Python.Lab105_EntraIQ.executor": "Run",
+    "Python.Lab106_dict.executor": "Run",
+    "Python.Lab107_Dict.executor": "Run",
+    "Python.Lab108_Dict_Mul.executor": "Run",
+    "Python.LabFilter01.executor": "Run",
+    "Python.LabMap01.executor": "Run",
+    "Python.LabMap02.executor": "Run",
+    "Python.LabMap03.executor": "Run",
     "Python.LabMatch002.executor": "Run",
     "Python.LabSwitch001.executor": "Run",
     "Python.LabWhile_Vs_For.executor": "Run",
     "Python.Lab_45_Nestede elseIf.executor": "Run",
+    "Python.Labfilter02.executor": "Run",
+    "Python.Labfilter03.executor": "Run",
     "Python.Labwhile.executor": "Run",
     "Python.P_Lambda.executor": "Run",
     "Python.Task001.executor": "Run",
@@ -416,7 +437,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762464300610</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="10th Nov">
+      <option name="closed" value="true" />
+      <created>1762609542805</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1762609542805</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,6 +478,10 @@
           <url>file://$PROJECT_DIR$/.venv/Lib/src/ex03_Literals_Variables/Lab026_Escape Char.py</url>
           <line>1</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/.venv/Lib/src/Task/Task_TriaglePattern.py</url>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

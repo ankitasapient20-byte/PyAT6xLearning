@@ -1,8 +1,8 @@
-i=int(input("Enter the number of rows: "))
-j=int(input("Enter the number of columns: "))
 
-matrix=[i,j]
+rows=int(input("Enter the row size for the pattern: "))
+for i in range(1,rows+1):
 
-    if i>j:
+  for j in range(1,i+1):
 
-        print("*")
+print("*", end=" ")
+print()
